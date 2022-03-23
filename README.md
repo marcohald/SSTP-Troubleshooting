@@ -38,3 +38,6 @@ I use Start-BitsTransfer to transmit the logs, because it solves the Problem of 
 Otherwise I needed to implement a way to resend the log on a schedule and the script would be much more complicated.
 
 One downside of using it, can be duplicated transmissions.
+
+# Credits
+I had great help from  Gary Nebbett https://docs.microsoft.com/en-us/answers/questions/183957/windows-10-always-on-vpn-clients-regularly-drop-vp.html#answer-747725
